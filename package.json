@@ -1,0 +1,25 @@
+{
+  "name": "rmock",
+  "version": "0.0.1",
+  "description": "Mock rest api server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/open-node/rmock.git"
+  },
+  "keywords": [
+    "mock",
+    "rest",
+    "api",
+    "http"
+  ],
+  "author": "Redstone Zhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/open-node/rmock/issues"
+  },
+  "homepage": "https://github.com/open-node/rmock#readme"
+}
