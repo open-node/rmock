@@ -35,6 +35,9 @@ rmock.add('/users/:userId/books', [{
 }])
 // GET/POST: /users/:userId/books
 // GET/PUT/DELETE: /users/:userId/books/:id
+
+// start mock server
+rmock.start([ip], [port])
 </pre>
 
 * Dont support cluster mode, beause data is stored in memory variable

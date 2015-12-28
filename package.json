@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/open-node/rmock/issues"
   },
-  "homepage": "https://github.com/open-node/rmock#readme"
+  "homepage": "https://github.com/open-node/rmock#readme",
+  "dependencies": {
+    "restify": "^4.0.3"
+  }
 }
